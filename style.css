@@ -1,0 +1,19 @@
+* {
+    background-color: #FFFAF1;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+.master {
+    max-width: 500px;
+}
+
+.master a{
+    color: #990606;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#ishant_image {
+    width: 200px;
+}
